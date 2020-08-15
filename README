@@ -1,0 +1,2 @@
+Ce projet contient une feuille Excel destinée à calculer l'échéancier d'un crédit immobilier en fonction de paramètres simples (montant du prêt, nombre d'années, taux d'intérêt, taux de l'assurance)
+En jouant sur les paramètres, la feuille recalcule automatiquement le montant des mensualités, le nombre de versements et la quote part des intérêts au fil des mensualités.
